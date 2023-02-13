@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/Animated-Birthday-Card-main/birthday"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Foodka"
+	}
+}
